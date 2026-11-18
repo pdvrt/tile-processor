@@ -1,0 +1,9 @@
+*
+!.editorconfig
+!.gitignore
+!LICENSE
+!README.md
+!result_test.tif
+!tile_processor.py
+!assets
+!assets/**
